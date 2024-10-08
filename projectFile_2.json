@@ -1,0 +1,37 @@
+[
+    {
+        "name": "background",
+        "id": 1833126076,
+        "color": "#79C0AA",
+        "type": "any",
+        "attributes": []
+    },
+    {
+        "name": "car",
+        "id": 1029135675,
+        "color": "#7DF506",
+        "type": "any",
+        "attributes": []
+    },
+    {
+        "name": "wheel",
+        "id": 1262766274,
+        "color": "#2A12D0",
+        "type": "any",
+        "attributes": []
+    },
+    {
+        "name": "lights",
+        "id": 2298414873,
+        "color": "#faf600",
+        "type": "any",
+        "attributes": []
+    },
+    {
+        "name": "window",
+        "id": 1227555403,
+        "color": "#32a852",
+        "type": "any",
+        "attributes": []
+    }
+]
